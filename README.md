@@ -1,7 +1,6 @@
+This project was made for Hack Club Stardance.
+
 3MF File *BEST FOR MOST USERS* (This has the slicer settings already implemented): [v22.3mf](https://drive.google.com/file/d/1u1-7vdEVfxhRC6OWaPhtks6dDoeLZYFF/view?usp=sharing).
-
-
-
 
 STL File *RECOMMENDED IF YOU ARE USING AN OLDER SLICER* (This does not have the slicer settings implemented): [v22.stl](https://drive.google.com/file/d/1MunQBmEyD2P9_4tJkWeEvz2LHerrbMSM/view?usp=sharing).
 
