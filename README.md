@@ -17,3 +17,5 @@ Throw the plane straight (at a 0° angle) with a moderate amount of force. It is
 5. In the modifier settings set infill to 100% so that the nose is heavier than the rest of the glider. 
 6. In the settings for the rest of the plane (the other object on the build plate), set infill to 0%, wall loops to 2, and enable supports. Any type of support will work. I’ve found normal supports to be the easiest and tree supports harder to remove.
 7. These are all the settings you need to change, you are now ready to slice and print the model.
+
+!(Alt text)[https://stardance.hackclub.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTgyODA4LCJwdXIiOiJibG9iX2lkIn19--70c4fa86f196488c2ee763990c126458df7a274e/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2xpbWl0IjpbMTYwMCw5MDBdLCJzYXZlciI6eyJzdHJpcCI6dHJ1ZSwicXVhbGl0eSI6NzV9fSwicHVyIjoidmFyaWF0aW9uIn19--3bc8a2c9d65e3b087c0c0b37dcfb642bb247bc73/Screenshot%202026-07-20%20201001.png]
